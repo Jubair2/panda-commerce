@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.honda-background-info{
+    background-color: #204250;
+
+}
+h1{
+    color: white;
+}
+.btn{
+    background-color:#E76F51;
+    color:white;
+}
+.img1{
+    filter: grayscale(100%)
+    
+}
